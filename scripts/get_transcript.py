@@ -8,7 +8,7 @@ import os
 API_KEY = "sd_de0d255a0c9e5aba2d1581c9a7db73b6"
 
 # 2. Link video YouTube của Expert (Ví dụ: Julian Goldie)
-VIDEO_URL = "https://www.youtube.com/watch?v=4okfLKAtMJ0"
+VIDEO_URL = "https://www.youtube.com/watch?v=WzVgS-LtiW8"
 # ==========================================
 
 def get_youtube_transcript(url):
@@ -33,7 +33,7 @@ if __name__ == "__main__":
         os.makedirs(folder_path, exist_ok=True)
         
         # Lưu file với tên dựa trên video
-        file_name = f"{folder_path}/julian_goldie_ai_seo.txt"
+        file_name = os.path.join(folder_path, "koray_gubur_semantic.txt")
         with open(file_name, "w", encoding="utf-8") as f:
             f.write(str(content))
         
