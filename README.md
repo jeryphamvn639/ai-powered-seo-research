@@ -15,3 +15,4 @@ I have selected 10 experts based on the following four pillars:
 - `/research/linkedin-posts/`: Curated insights from LinkedIn.
 - `/research/youtube-transcripts/`: Deep-dives from video content.
 - `/scripts/`: Tools used to gather and process this data.
+Project status: Completed. Collected high-signal AI SEO insights from 10 experts across YouTube and LinkedIn, including visual documentation in the /other folder.
