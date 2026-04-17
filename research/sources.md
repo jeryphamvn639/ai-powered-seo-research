@@ -17,6 +17,6 @@ This document lists the top 10 experts in AI-powered SEO and content automation.
 
 ## Research Progress
 - [x] Identify 10 Experts
-- [ ] Collect recent LinkedIn posts
-- [ ] Collect YouTube transcripts via API
-- [ ] Summarize key AI SEO workflows
+- [x] Collect recent LinkedIn posts
+- [x] Collect YouTube transcripts via API
+- [x] Summarize key AI SEO workflows
