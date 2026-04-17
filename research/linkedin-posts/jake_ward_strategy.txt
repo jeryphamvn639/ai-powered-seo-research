@@ -1,0 +1,37 @@
+LinkedIn always finds out last so I'm here to tell you from Twitter: THE AGENCY MODEL IS SO BACK.
+
+I'm seeing more and more people catch onto this.
+
+And as someone who owns an SEO agency and 3x SaaS companies, I'm experiencing it first-hand.
+
+Old model:
+
+- Army of humans
+- 30% margins
+- 2-3x exit multiples
+
+New model:
+
+- One person does the work of seven
+- 75%+ margins
+- PE firms are already shifting budgets from SaaS to buy these businesses at tech multiples
+
+AI is flipping the agency model on its head.
+
+Building software used to be hard and expensive (that was the point). But AI is driving that cost to zero.
+
+Agencies have always had deep domain expertise and strategic thinking. But now these have leverage and scalability like never before.
+
+SaaS is losing its moat, agencies just found one.
+
+Here's the playbook we're running:
+
+1. One outcome that's hard to achieve (organic leads)
+2. Build a proprietary tool for each deliverable
+3. AI agent runs deliverables from a Slack message
+4. Humans strategise and operate campaigns
+5. Sell the outcome on a monthly retainer
+
+Margins can reach ~75% because the cost is compute for execution and humans for strategy and QA.
+
+Crazy shift.
