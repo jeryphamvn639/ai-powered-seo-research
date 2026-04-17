@@ -1,0 +1,36 @@
+🚨 Common AI Search Tracking Mistakes and Misunderstandings: 
+
+1. Treating traffic-based metrics as a proxy for AI visibility or the full measure of AI impact 
+
+Organic traffic doesn't show whether a brand is being surfaced, cited, or recommended inside AI-generated answers, especially when no click happens. 
+
+2. Treating AI search as a performance channel only, rather than a performance and branding channel 
+
+AI search influences both direct response outcomes and brand outcomes. A brand can benefit from AI-generated recommendations, stronger recall, better category association, and improved perceived credibility without generating an immediate click or a directly attributable conversion. 
+
+3. Drawing conclusions from single-session prompt tests 
+
+Given the response volatility of current AI systems, a single session is not a meaningful data point. Reliable presence requires repeated testing across multiple sessions per prompt and across multiple tracking periods. 
+
+4. Assuming your visibility and performance are the same across all AI platforms 
+
+Platform behavior varies: citation volumes, source selection patterns, response style, and brand recommendations differ across ChatGPT, Perplexity, Google AI Overviews, Google AI Mode, Gemini, and Copilot. A brand can be well represented in one system and much less visible in another. 
+
+5. Collapsing mentions, citations, links, recommendations, and sentiment into one generic visibility metric. 
+
+Counting all brand appearances in AI answers as the same type of visibility hides whether a brand is actually being selected, supported by source citations, driving potential traffic, or being described favorably. These distinctions are critical for diagnosing whether the opportunity is one of recall, authority, referral, or brand positioning. 
+
+6. Applying ranking position logic to AI answers 
+
+In traditional search, position one, two, and three have defined strategic meaning. AI answers do not work this way. There is no stable ranking position. A brand is either present in an answer or it is not, described in a particular way or not, recommended or merely referenced. Prominence within an answer matters, but it is not equivalent to a ranking position and should not be measured or communicated as one. 
+
+7. Ignoring representation accuracy 
+
+Whether a brand appears in an AI answer is only part of what matters. How it is described matters equally. A brand can appear frequently in AI answers while being mischaracterized, positioned in the wrong category, or associated with weaknesses rather than strengths. 
+
+8. Extrapolating from industry statistics to brand-level conclusions 
+
+Published research on AI search is generated from specific samples, time periods, and query sets. These findings provide useful directional context. They do not predict what any individual brand’s AI visibility looks like. Brand-level measurement requires brand-level data collected systematically over time.
+
+- What others should I add?
+Image Reference: research/other/aleyda_solis_ward_post1.png
