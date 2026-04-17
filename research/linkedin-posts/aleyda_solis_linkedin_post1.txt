@@ -33,4 +33,4 @@ Whether a brand appears in an AI answer is only part of what matters. How it is 
 Published research on AI search is generated from specific samples, time periods, and query sets. These findings provide useful directional context. They do not predict what any individual brand’s AI visibility looks like. Brand-level measurement requires brand-level data collected systematically over time.
 
 - What others should I add?
-Image Reference: research/other/aleyda_solis_ward_post1.png
+Image Reference: research/other/aleyda_solis_likedin_post1.png

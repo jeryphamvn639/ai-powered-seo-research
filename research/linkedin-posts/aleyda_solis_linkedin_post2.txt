@@ -1,0 +1,18 @@
+📊 Google March 2026 Core Update Visibility Shifts & Patterns In the US - I’ve analyzed the biggest US domain level visibility shifts in SISTRIX, along with the top keyword changes behind them, finding: 
+
+* One of the clearest early patterns was a shift away from many intermediary, aggregator, directory, and quick-answer utility sites, and toward a smaller set of stronger destination brands, institutional sources, specialist sites, and dominant platforms.
+
+* This was especially visible in dictionaries and language-reference search, where sites like Wiktionary (-21.3%), Collins Dictionary (-30.0%), Etymonline (-36.0%), OneLook (-52.8%), and AcronymFinder (-54.1%) all declined. At the same time, visibility around those same keyword sets often shifted toward stronger reference destinations such as Merriam-Webster, Wikipedia, Cambridge, Dictionary.com, and other large platforms competing on short, broad, or ambiguous queries.
+
+* A similar pattern appeared in jobs, where broad intermediaries such as ZipRecruiter (-36.6%), Glassdoor (-36.3%), and SimplyHired (-43.2%) lost visibility, while more direct or specialized destinations such as Amazon.jobs (+242.7%), myworkdayjobs.com (+115.0%), HigherEdJobs (+79.1%), and USAJobs (+25.5%) gained.
+
+* In travel, several broad planning and discovery players such as Expedia (-23.4%), Travelocity (-44.3%), and Hotwire (-36.0%) declined, while increases were redistributed across a mixed set of stronger travel brands, suppliers, large travel platforms, and dominant horizontal destinations.
+
+* In real estate, listing heavy and rental directory sites such as Apartments.com (-24.8%), Apartment Guide (-56.2%), Apartment Finder (-43.2%), and Rent.com (-37.3%) lost visibility, while stronger destination platforms such as Zillow (+5.8%) and Opendoor (+136.0%) gained.
+
+* Health was more mixed and more nuanced. Several broad consumer-health, provider-directory, and general medical reference sites, including Healthgrades (-43.5%), Verywell Health (-26.3%), Merck Manuals (-37.8%), WebMD (-16.9%), and Cleveland Clinic (-5.8%), lost visibility, while more specialist, research-led, clinically anchored, or professionally oriented sources such as NEJM (+107.3%), Nature (+41.0%), MSKCC (+34.2%), GoodRx (+69.0%), and Medscape (+32.0%) gained. Rather than a simple authority-led uplift, health looks more like a source-type re-sorting shaped by query fit.
+
+* Other verticals, such as finance and ecommerce, were less clean but still directionally consistent. In both, the broad comparison, marketplace, or interchangeable discovery layer looked more vulnerable, while visibility tended to concentrate around stronger brands, more established destinations, larger platforms, and sites with a clearer claim on the query.
+
+Read more in link in comments 👇
+Image Reference: research/other/aleyda_solis_linkedin_post2.png

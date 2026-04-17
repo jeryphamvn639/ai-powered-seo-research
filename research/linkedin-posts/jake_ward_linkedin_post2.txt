@@ -33,4 +33,4 @@ Transactional and navigational searches may stick with Web Guide. But for resear
 Start here: Adapt your content architecture now and build for clusters, not just individual keyword rankings.
 
 What do you think about this direction for Google?
-Image Reference: research/other/jake_ward_linkedin post 2.png 
+Image Reference: research/other/jake_ward_linkedin_post2.png 
