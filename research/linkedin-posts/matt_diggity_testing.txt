@@ -1,1 +1,11 @@
-"Don't guess, test. We ran 50+ sites through the latest Core Update. Result: AI content that adds 'Information Gain' (new info not found elsewhere) survives. Generic AI content gets crushed. Focus on unique data and personal experience."
+EXPERT: Matt Diggity
+SOURCE: LinkedIn / Evidence-based SEO Testing
+TOPIC: AI Content Survival after Google Core Updates
+
+CORE STRATEGY:
+"Don't guess, test. We ran 50+ sites through the latest Core Update."
+
+KEY FINDINGS:
+1. Generic AI content gets crushed by Google updates.
+2. Success Factor: "Information Gain" (providing new information not found elsewhere).
+3. Critical Elements: Unique data and personal experience must be integrated into AI workflows.
