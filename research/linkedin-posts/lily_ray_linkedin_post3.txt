@@ -1,0 +1,28 @@
+Wow. Something interesting was just brought to my attention regarding self-promotional listicles: in some cases, they may actually be *against the law,* according to FTC rules that took effect in October 2024.
+
+There is already precedent for this: A few years back, a company was sued for publishing hundreds of fake "best of" review pages that ranked their own services #1, included fabricated reviews of competitors whose products had never been used, and posted fake reviews on third-party platforms. The BBB eventually censured the company for unsubstantiated claims. (Note: I am being vague/anonymous on purpose 👀 )
+
+This case took place before the FTC formalized these prohibitions, so the legal exposure today would presumably be much worse.
+
+I've been researching and writing about self-promotional listicles for months - the "Best [X] Companies" and "Top 10 [Y] Tools" pages where the publishing company ranks itself #1. This has arguably become the most popular GEO tactic over the last year or two because it has worked (surprisingly well) to influence SEO & GEO results.
+
+In my articles about this, I've been approaching this as a potential search quality problem. But it turns out the FTC's Consumer Review Rule (16 CFR Part 465) explicitly prohibits several practices that are common in these pages:
+
+* Creating a company-controlled site that presents itself as providing independent reviews (§465.6) 
+* Publishing reviews of products or services you've never actually used (§465.2) 
+* Attributing reviews to people who didn't write them (§465.2(a))
+
+And the penalties? Up to $53,088 PER VIOLATION. Plus, each page could be a separate violation (!!) 
+
+The FTC issued its first enforcement warning letters under this rule in December 2025 to 10 companies.
+
+One way to interpret this for SEOs/GEOs: if your client (or agency) is publishing "best of" listicles that rank themselves #1 based on scores they made up, about products or competitors they never used, on a site that looks like an independent review authority... that's not just a Google quality guidelines issue anymore. It's a potential legal liability.
+
+Based on FTC guidance, the line appears relatively straightforward: you can *absolutely publish comparison content that includes your own product.* Just be honest about who you are and don't fabricate reviews of products or competitors you've never used. (BTW, this part is recommended in Google's Reviews guidelines as well.)
+
+That said, this might be tricky for most of these listicles, given that the author almost never actually tried and tested competitor products; usually they're just doing research based on publicly available data about the company.
+
+I used Claude to put together a quick reference table (see image below) breaking down what's legal and what's not under the FTC rule.
+
+(BTW, I’m not a lawyer and this isn’t legal advice; just my interpretation of the FTC’s published rules. If you’re doing this at scale, it’s worth checking with legal counsel.)
+Image Reference: research/other/lily_ray_linkedin_post3.png

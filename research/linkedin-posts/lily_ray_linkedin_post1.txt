@@ -1,0 +1,14 @@
+Last year, I asked Perplexity about the latest SEO/AI search updates. It confidently told me about the September 2025 "Perspectives" Core Update.
+
+The problem? That update never happened. It doesn't exist. It was fabricated by AI-generated content on agency blogs, cited by other AI-generated content, and eventually treated as fact by multiple LLMs.
+
+To this day, you can ask ChatGPT, AI Overviews, or AI Mode about it and they'll explain how this fictitious update "fundamentally shifted how search results are ranked." 🙄 
+
+This is what I'm calling the AI Slop Loop: one hallucination gets scraped, republished, cited, and fed back into the same systems that created it. The cycle compounds, and the misinformation becomes the official narrative across AI platforms.
+
+I spoke with journalists at the BBC and the New York Times about this problem and did some experiments to put it to the test. For one, I published a fake core update announcement on my blog and within 24 hours, AI Overviews, AI Mode, Gemini, and ChatGPT were serving it as fact.
+
+The results are scary, and the implications for the vast majority of AI users are not good.
+
+I wrote the full breakdown on my latest Substack. Link in comments.
+Image Reference: research/other/lily_ray_linkedin_post1.png
