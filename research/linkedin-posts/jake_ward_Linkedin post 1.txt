@@ -35,4 +35,4 @@ Here's the playbook we're running:
 Margins can reach ~75% because the cost is compute for execution and humans for strategy and QA.
 
 Crazy shift.
-Image Reference: research/other/jake_ward_playbook 1.png
+Image Reference: research/other/jake_ward_linkedin post 1.png
